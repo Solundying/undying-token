@@ -2,8 +2,7 @@
   "name": "Undying",
   "symbol": "UND",
   "uri": "https://raw.githubusercontent.com/Solundying/undying-token/main/metadata.json",
-  "image": "https://raw.githubusercontent.com/Solundying/undying-token/main/path/to/image.png",
+  "image": "https://raw.githubusercontent.com/Solundying/undying-token/main/image.png",
   "seller_fee_basis_points": 500,
-  "creators": ["CNwkibdMqviQ5Auix1PdCeqpRAmg43BsPBsr8bpGT"]
+  "creators": ["CNwkibdMqviQ5ky5Auix1PdCeqpRAmg43BsPBsr8bpGT"]
 }
-
