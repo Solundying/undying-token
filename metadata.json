@@ -1,16 +1,6 @@
 {
-  "name": "Undying Token", 
-  "symbol": "Undying", 
-  "uri": "https://raw.githubusercontent.com/Solundying/undying-token/refs/heads/main/metadata.json", 
-  "seller_fee_basis_points": 500, 
+  "name": "Undying Token",
+  "symbol": "Undying",
+  "description": "Example token from Solana Making a Token guide.",
   "image": "https://lime-total-weasel-987.mypinata.cloud/ipfs/Qmed6R9V6LTJJ3TG2DKFRUhNDRHfmCdvbkB5XbG6gs7TkQ"
-   "creators": [
-    {
-      "address": "5ywtcC1jYYoZpikt6rfeNcwxVm3aeGSGGjYQ4eYcH8dW",
-      "verified": true,
-      "share": 100
-    }
-  ],
-  "external_url": "https://x.com/solundying"
 }
-
