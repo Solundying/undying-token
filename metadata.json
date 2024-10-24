@@ -1,9 +1,16 @@
 {
-  "name": "Undying",
-  "symbol": "UND",
-  "uri": "https://raw.githubusercontent.com/Solundying/undying-token/main/metadata.json",
-  "image": "https://raw.githubusercontent.com/Solundying/undying-token/main/image.png",
-  "seller_fee_basis_points": 350,
-  "creators": ["5ywtcC1jYYoZpikt6rfeNcwxVm3aeGSGGjYQ4eYcH8dW"]
-  "share": 20
+  "name": "Undying Token", 
+  "symbol": "Undying", 
+  "uri": "https://raw.githubusercontent.com/Solundying/undying-token/refs/heads/main/metadata.json", 
+  "seller_fee_basis_points": 500, 
+  "image": "https://github.com/Solundying/undying-token/blob/main/image.png"
+   "creators": [
+    {
+      "address": "5ywtcC1jYYoZpikt6rfeNcwxVm3aeGSGGjYQ4eYcH8dW",
+      "verified": true,
+      "share": 100
+    }
+  ],
+  "external_url": "https://x.com/solundying"
 }
+
