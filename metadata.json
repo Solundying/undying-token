@@ -1,6 +1,6 @@
 {
-  "name": "Undying Token",
-  "symbol": "Undying",
+  "name": "Example Token",
+  "symbol": "EXMPL",
   "description": "Example token from Solana Making a Token guide.",
-  "image": "https://lime-total-weasel-987.mypinata.cloud/ipfs/Qmed6R9V6LTJJ3TG2DKFRUhNDRHfmCdvbkB5XbG6gs7TkQ"
+  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
 }
