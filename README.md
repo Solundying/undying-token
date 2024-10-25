@@ -1,5 +1,3 @@
-![My Image](https://raw.githubusercontent.com/Solundying/undying-token/main/Untitled%20design.png)
-
 Total Supply: 500,000,000 Tokens
 Phase 1: Pre-Market
 Liquidity Goal: Sell 40% of tokens to provide liquidity.
