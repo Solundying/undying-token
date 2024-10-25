@@ -27,5 +27,10 @@
 - **Date:** TBD
 - **Details:** After the pre-market and airdrop phases, the remaining tokens will be made available to the public, marking the official entry of the token into the market.
 
+## Links
+- **Solana Explorer:** [mnttdLJ9DvDr6pN3FTivswPinqakAcoEKHu9wQ9Qb2A](https://explorer.solana.com/address/mnttdLJ9DvDr6pN3FTivswPinqakAcoEKHu9wQ9Qb2A)
+- **Telegram Group:** [Join our Telegram](https://t.me/+vlgLIxMK8C1hMGU1)
+- **X (Twitter) Account:** [Follow us on X](https://x.com/solundying)
+
 ## Conclusion
 The roadmap outlines our commitment to transparency and community engagement. We aim to create a sustainable ecosystem for our token and appreciate all supporters who contribute to our vision. Together, we will build a bright future for the Undying Token.
